@@ -1,1 +1,46 @@
 /*  your css code here. If applicable */
+
+body{
+	width:1100px;
+	background-color:#cbd6cb;
+	display:block;
+}
+.imageContainer 
+{
+  width: 1000px;
+  margin: 20px auto 10px auto;
+  text-align: center;
+}
+
+#img1 
+{
+  max-width: 100%;
+  display: block;
+}
+
+.table{
+	margin: 0 auto;
+	border-collapse: collapse;
+	border: 1px solid black;
+	box-sizing: border-box;
+}
+
+.col1{
+	border:1px solid black;
+	box-sizing: border-box;
+}
+.col2{
+	border:1px solid black;
+	box-sizing: border-box;
+}
+.col3{
+	border:1px solid black;
+	box-sizing: border-box;
+}
+.img{
+	width:200px;
+}
+
+.text{
+	text-align:center;
+}

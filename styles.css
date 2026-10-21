@@ -19,6 +19,7 @@ body{
 }
 
 .table{
+	width: 1000px;
 	margin: 0 auto;
 	border-collapse: collapse;
 	border: 1px solid black;
